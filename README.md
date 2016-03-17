@@ -6,7 +6,7 @@ Hello World Application for iOS with Swift
 
 Download the repository: `git clone https://github.com/cwalk/Hello-World-iOS`
 
-Navigate into the project directory: `cd Hello World/Hello World/`
+Navigate into the project directory: `cd Hello-World-iOS/Hello World/`
 
 Open the Xcode project: `open Hello World.xcodeproj/`
 
